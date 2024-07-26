@@ -25,5 +25,6 @@ and enjoy the prediction on a real-world random image of a car
 > [!IMPORTANT]
 > Server is not production ready, only for demonstration purposes. For further processing use WSGI server instead.
 
+- Next steps could be using docker-compose witg nginx reverse-proxy and uwsgi server
 
 
