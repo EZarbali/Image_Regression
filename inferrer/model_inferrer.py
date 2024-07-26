@@ -71,7 +71,6 @@ class Model_Inferrer:
 
 if __name__ == "__main__":
     inferrer = Model_Inferrer()
-    img_path = r"../data/imgs/0a9a0202-d22e-447b-9be5-f922bd7d9116.jpg"
-    # image = np.asarray(Image.open(img_path)).astype(np.float32)
-    score1, score2 = inferrer.inference(img_path)
-    print(score1, score2)
+    #img_path = r"../data/imgs/0a9a0202-d22e-447b-9be5-f922bd7d9116.jpg"
+    #score1, score2 = inferrer.inference(img_path)
+    #print(score1, score2)
