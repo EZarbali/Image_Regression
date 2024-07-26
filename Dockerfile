@@ -19,10 +19,5 @@ RUN pip3 install --upgrade pip && pip3 --no-cache-dir install -r /workspace/requ
 
 
 RUN apt-get update && apt-get install ffmpeg libsm6 libxext6  -y
-#RUN pip --no-cache-dir install -r /workspace/requirements.txt
-
-EXPOSE 80
-
-ENV NAME World
 
 WORKDIR /app 

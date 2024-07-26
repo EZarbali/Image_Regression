@@ -6,8 +6,7 @@ import pandas as pd
 import copy 
 
 import torch
-from torchvision import transforms
-from PIL import Image 
+from torchvision import transforms 
 from collections import defaultdict
 import glob 
 import cv2 
