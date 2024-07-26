@@ -23,7 +23,7 @@ and enjoy the prediction on a real-world random image of a car
 
 
 > [!IMPORTANT]
-> Description of the repository
+> Server is not production ready, only for demonstration purposes. For further processing use WSGI server instead.
 
 
 
