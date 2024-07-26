@@ -1,0 +1,15 @@
+pre-commit
+pycocotools==2.0.6
+tqdm
+hydra-core
+torch==2.2.0
+tensorboard 
+albumentations
+torchvision
+transformers
+pytorch-lightning
+matplotlib 
+flask 
+opencv-fixer==0.2.5                        
+opencv-python==4.8.0.74                     
+opencv-python-headless==4.9.0.80                     

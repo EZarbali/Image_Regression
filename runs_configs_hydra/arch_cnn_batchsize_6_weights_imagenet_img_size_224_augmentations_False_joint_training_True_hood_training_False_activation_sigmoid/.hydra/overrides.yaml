@@ -1,0 +1,7 @@
+- finetune=True
+- joint_training=True
+- use_augmentations=False
+- img_size=224
+- num_workers=1
+- arch=cnn
+- activation=sigmoid

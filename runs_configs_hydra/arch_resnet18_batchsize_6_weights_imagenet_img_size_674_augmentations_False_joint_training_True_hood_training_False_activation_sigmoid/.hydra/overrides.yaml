@@ -1,0 +1,7 @@
+- finetune=True
+- joint_training=True
+- use_augmentations=False
+- img_size=674
+- num_workers=1
+- arch=resnet18
+- activation=sigmoid

@@ -1,0 +1,6 @@
+hydra-core
+transformers
+pytorch-lightning
+flask       
+Flask
+uWSGI 

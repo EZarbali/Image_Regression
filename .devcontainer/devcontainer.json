@@ -1,0 +1,27 @@
+{
+	"name": "Existing Dockerfile",
+	"build": {
+		"dockerfile": "../Dockerfile",
+		"args": {
+            "USERID": "1011"
+        }
+	},
+
+	"mounts": [
+		{
+		  "source": "/Users/e.zarbali/Desktop/imgs/", 
+		  "target": "/workspaces/HUK_Interview/data/imgs/",
+		  "type": "bind"
+		}
+	],
+
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"ms-azuretools.vscode-docker",
+				"ms-python.python",
+				"ms-python.vscode-pylance"
+			]
+		}
+	}
+}

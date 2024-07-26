@@ -1,0 +1,8 @@
+- finetune=True
+- joint_training=True
+- use_augmentations=True
+- img_size=224
+- num_workers=1
+- arch=vit
+- activation=sigmoid
+- epochs=16
