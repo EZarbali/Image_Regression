@@ -1,9 +1,5 @@
-import io
-import json
 import os
 import traceback
-
-from PIL import Image
 from flask import Flask, jsonify, request
 import sys
 
