@@ -8,7 +8,6 @@ from flask import Flask, jsonify, request
 import sys
 
 sys.path.append("/app")
-# sys.path.append("/Users/e.zarbali/Desktop/HUK_Interview")
 from model_inferrer import Model_Inferrer
 
 app = Flask(__name__)
