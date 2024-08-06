@@ -1,11 +1,6 @@
-# ML Interview Coding Challenge
-
 > [!NOTE]
 > Useful information how to start the docker application
-
-Welcome to the repository of the HUK Coding Challenge for ML Engineers. 
-
-
+> 
 to run the docker file to test the API please do the following: 
 - navigate to the folder docker_app/app and run in terminal 
 ```
